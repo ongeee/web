@@ -1,1 +1,1 @@
-url : https://ongeee.github.io/web/cv.html
+https://ongeee.github.io/web/cv.html
